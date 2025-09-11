@@ -1,8 +1,9 @@
-data/*
-!data/README.md
+detection/data/*
+!detection/data/data.yaml
 
-bird_classifier/data_augmented/
-bird_classifier/data_split/
-bird_classifier/data_split_augmented/
-bird_classifier/data
-bird_classy/data_fold
+detection/results/
+
+classification/data_augmented/
+classification/data_split/
+classification/data_split_augmented/
+classification/data

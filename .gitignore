@@ -7,3 +7,4 @@ classification/data_augmented/
 classification/data_split/
 classification/data_split_augmented/
 classification/data
+classification_v2/data_fold/

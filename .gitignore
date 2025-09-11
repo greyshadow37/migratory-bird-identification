@@ -5,3 +5,4 @@ bird_classifier/data_augmented/
 bird_classifier/data_split/
 bird_classifier/data_split_augmented/
 bird_classifier/data
+bird_classy/data_fold

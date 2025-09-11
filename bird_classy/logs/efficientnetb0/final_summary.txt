@@ -1,0 +1,6 @@
+Final Results across 5 folds Validation:
+Accuracy: 0.9425 ±  0.0042
+Precision: 0.9431 ±  0.0042
+Recall: 0.9425 ±  0.0042
+F1-score: 0.9424 ±  0.0041
+

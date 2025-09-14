@@ -8,3 +8,8 @@ classification/data_split/
 classification/data_split_augmented/
 classification/data
 classification_v2/data_fold/
+classification_v3/data
+classification_v3/test.ipynb
+classification_v3/plots
+classification_v3/logs
+

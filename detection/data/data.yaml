@@ -1,6 +1,0 @@
-path: ../data  
-train: images/train
-val: images/val
-test: images/test
-nc: 5
-names: ['asian-green-bee-eater', 'cattle-egret', 'gray-wagtail', 'indian-pitta', 'ruddy-shelduck']

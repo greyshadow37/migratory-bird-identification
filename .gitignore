@@ -1,8 +1,6 @@
-detection/data-yolo/*
-detection/data-coco/*
-!detection/data-yolo/.gitkeep
-!detection/data-yolo/data.yaml
-
+detection/data-yolo/
+detection/data-coco/
+detection/eval/
 detection/results/
 
 classification/data

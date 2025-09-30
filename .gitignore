@@ -5,13 +5,9 @@ detection/data-coco/*
 
 detection/results/
 
-classification/data_augmented/
-classification/data_split/
-classification/data_split_augmented/
 classification/data
-classification_v2/data_fold/
-classification_v3/data
-classification_v3/test.ipynb
-classification_v3/plots
-classification_v3/logs
-
+classification/test.ipynb
+classification/plots
+classification/logs
+classification/model/__pycache__
+.vscode

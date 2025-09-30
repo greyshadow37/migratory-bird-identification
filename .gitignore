@@ -10,4 +10,4 @@ classification/test.ipynb
 classification/plots
 classification/logs
 classification/model/__pycache__
-.vscode
+/.vscode
